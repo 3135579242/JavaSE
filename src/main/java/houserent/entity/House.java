@@ -17,6 +17,7 @@ public class House {
         this.state = state;
     }
 
+
     @Override
     public String toString() {
         return
